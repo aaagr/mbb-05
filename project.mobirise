@@ -21,7 +21,7 @@
     "sitemapSwitcher": true,
     "siteUrl": "https://mbbtalent.com",
     "sitemapSwitcherAuto": "on",
-    "favicon": "@PROJECT_PATH@/assets/images/favicon-mbb-talent-v03-cut-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-mbb-talent-v04-cut-128x128.png",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
