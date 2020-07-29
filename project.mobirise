@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page6.html",
+    "currentPage": "Candidates.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -342,7 +342,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
           "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><strong><br></strong><strong>Contacts</strong><br>Please use the online message portal. Alternatively you may contact us via our email address:<br>workwithus AT mbbtalent DOT com<br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Perm Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project hires</a></li></ul>",
+          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Perm Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project hires</a></li><li><a href=\"#top\" class=\"text-info\">Candidates</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "study17777@gmail.com",
@@ -743,7 +743,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
           "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><strong><br></strong><strong>Contacts</strong><br>Please use the online message portal. Alternatively you may contact us via our email address:<br>workwithus AT mbbtalent DOT com<br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Perm Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project hires</a></li></ul>",
+          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Perm Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project hires</a></li><li><a href=\"#top\" class=\"text-info\">Candidates</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "study17777@gmail.com",
@@ -976,7 +976,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
           "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><strong><br></strong><strong>Contacts</strong><br>Please use the online message portal. Alternatively you may contact us via our email address:<br>workwithus AT mbbtalent DOT com<br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Perm Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project hires</a></li></ul>",
+          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Perm Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project hires</a></li><li><a href=\"#top\" class=\"text-info\">Candidates</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "study17777@gmail.com",
@@ -1209,7 +1209,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
           "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><strong><br></strong><strong>Contacts</strong><br>Please use the online message portal. Alternatively you may contact us via our email address:<br>workwithus AT mbbtalent DOT com<br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Perm Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project hires</a></li></ul>",
+          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Perm Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project hires</a></li><li><a href=\"#top\" class=\"text-info\">Candidates</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "study17777@gmail.com",
@@ -1268,7 +1268,7 @@
         }
       ]
     },
-    "page6.html": {
+    "Candidates.html": {
       "settings": {
         "title": "Candidates",
         "meta_descr": "",
@@ -1441,7 +1441,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
           "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><strong><br></strong><strong>Contacts</strong><br>Please use the online message portal. Alternatively you may contact us via our email address:<br>workwithus AT mbbtalent DOT com<br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Perm Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project hires</a></li></ul>",
+          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Perm Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project hires</a></li><li><a href=\"#top\" class=\"text-info\">Candidates</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "web@mbbtalent.com",
