@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Candidates.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -27,7 +27,7 @@
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "uniqCompNum": 71,
+    "uniqCompNum": 72,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png"
   },
@@ -340,14 +340,14 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
-          "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><strong><br></strong><strong>Contacts</strong><br>Please use the online message portal. Alternatively you may contact us via our email address:<br>workwithus AT mbbtalent DOT com<br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Perm Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project hires</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Candidates</a></li></ul>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Contact Us</a>",
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<strong>Links</strong><ul><li><a href=\"https://mobirise.com/\">Website builder</a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
           "form": {
             "title": "MESSAGE",
-            "action": "study17777@gmail.com",
+            "action": "info@mbbtalent.com",
             "alerts": {
-              "success": "Thank you."
+              "success": "Thanks for filling out form!"
             },
             "fields": {
               "name": {
@@ -376,7 +376,7 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-1i"
+          "_anchor": "contacts3-1z"
         },
         {
           "_params": {
@@ -482,6 +482,57 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-1m"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Contact Us</a>",
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<strong>Links</strong><ul><li><a href=\"https://mobirise.com/\">Website builder</a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@mbbtalent.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-1z"
         }
       ]
     },
@@ -566,6 +617,57 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-1m"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Contact Us</a>",
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<strong>Links</strong><ul><li><a href=\"https://mobirise.com/\">Website builder</a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@mbbtalent.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-1z"
         }
       ]
     },
@@ -736,19 +838,40 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "© 2020 MBB Talent.&nbsp;<a href=\"terms.html#content1-1h\" class=\"text-info\">Ts &amp; Cs</a>&nbsp;| <a href=\"policy.html#content1-1k\" class=\"text-info\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1m"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
             "bgColor": "#37383e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
-          "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><strong><br></strong><strong>Contacts</strong><br>Please use the online message portal. Alternatively you may contact us via our email address:<br>workwithus AT mbbtalent DOT com<br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Perm Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project hires</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Candidates</a></li></ul>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Contact Us</a>",
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<strong>Links</strong><ul><li><a href=\"https://mobirise.com/\">Website builder</a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
           "form": {
             "title": "MESSAGE",
-            "action": "study17777@gmail.com",
+            "action": "info@mbbtalent.com",
             "alerts": {
-              "success": "Thank you."
+              "success": "Thanks for filling out form!"
             },
             "fields": {
               "name": {
@@ -777,28 +900,7 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-1i"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#26272c",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "© 2020 MBB Talent.&nbsp;<a href=\"terms.html#content1-1h\" class=\"text-info\">Ts &amp; Cs</a>&nbsp;| <a href=\"policy.html#content1-1k\" class=\"text-info\">Privacy Policy</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-1m"
+          "_anchor": "contacts3-1z"
         }
       ]
     },
@@ -969,19 +1071,40 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "© 2020 MBB Talent.&nbsp;<a href=\"terms.html#content1-1h\" class=\"text-info\">Ts &amp; Cs</a>&nbsp;| <a href=\"policy.html#content1-1k\" class=\"text-info\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1m"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
             "bgColor": "#37383e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
-          "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><strong><br></strong><strong>Contacts</strong><br>Please use the online message portal. Alternatively you may contact us via our email address:<br>workwithus AT mbbtalent DOT com<br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Perm Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project hires</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Candidates</a></li></ul>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Contact Us</a>",
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<strong>Links</strong><ul><li><a href=\"https://mobirise.com/\">Website builder</a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
           "form": {
             "title": "MESSAGE",
-            "action": "study17777@gmail.com",
+            "action": "info@mbbtalent.com",
             "alerts": {
-              "success": "Thank you."
+              "success": "Thanks for filling out form!"
             },
             "fields": {
               "name": {
@@ -1010,28 +1133,7 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-1i"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#26272c",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "© 2020 MBB Talent.&nbsp;<a href=\"terms.html#content1-1h\" class=\"text-info\">Ts &amp; Cs</a>&nbsp;| <a href=\"policy.html#content1-1k\" class=\"text-info\">Privacy Policy</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-1m"
+          "_anchor": "contacts3-1z"
         }
       ]
     },
@@ -1202,19 +1304,40 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "© 2020 MBB Talent.&nbsp;<a href=\"terms.html#content1-1h\" class=\"text-info\">Ts &amp; Cs</a>&nbsp;| <a href=\"policy.html#content1-1k\" class=\"text-info\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1m"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
             "bgColor": "#37383e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
-          "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><strong><br></strong><strong>Contacts</strong><br>Please use the online message portal. Alternatively you may contact us via our email address:<br>workwithus AT mbbtalent DOT com<br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Perm Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project hires</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Candidates</a></li></ul>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Contact Us</a>",
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<strong>Links</strong><ul><li><a href=\"https://mobirise.com/\">Website builder</a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
           "form": {
             "title": "MESSAGE",
-            "action": "study17777@gmail.com",
+            "action": "info@mbbtalent.com",
             "alerts": {
-              "success": "Thank you."
+              "success": "Thanks for filling out form!"
             },
             "fields": {
               "name": {
@@ -1243,28 +1366,7 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-1i"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#26272c",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "© 2020 MBB Talent.&nbsp;<a href=\"terms.html#content1-1h\" class=\"text-info\">Ts &amp; Cs</a>&nbsp;| <a href=\"policy.html#content1-1k\" class=\"text-info\">Privacy Policy</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-1m"
+          "_anchor": "contacts3-1z"
         }
       ]
     },
@@ -1428,57 +1530,6 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#37383e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
-          "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><strong><br></strong><strong>Contacts</strong><br>Please use the online message portal. Alternatively you may contact us via our email address:<br>workwithus AT mbbtalent DOT com<br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Perm Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project hires</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Candidates</a></li></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "study17777@gmail.com",
-            "alerts": {
-              "success": "Thank you."
-            },
-            "fields": {
-              "name": {
-                "visible": false,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": false,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-1v"
-        },
-        {
-          "_params": {
             "showTitle": true,
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -1547,6 +1598,57 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-1w"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Contact Us</a>",
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<strong>Links</strong><ul><li><a href=\"https://mobirise.com/\">Website builder</a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@mbbtalent.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-1z"
         }
       ]
     }
