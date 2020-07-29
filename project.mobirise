@@ -27,7 +27,7 @@
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "uniqCompNum": 70,
+    "uniqCompNum": 71,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png"
   },
@@ -1444,7 +1444,7 @@
           "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Perm Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project hires</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Candidates</a></li></ul>",
           "form": {
             "title": "MESSAGE",
-            "action": "info@mbbtalent.com",
+            "action": "study17777@gmail.com",
             "alerts": {
               "success": "Thank you."
             },
@@ -1476,6 +1476,56 @@
           ],
           "_name": "contacts3",
           "_anchor": "contacts3-1v"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Contact Form",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\">Contact Us</a>",
+          "form": {
+            "action": "info@mbbtalent.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-1y"
         },
         {
           "_params": {
