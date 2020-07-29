@@ -27,7 +27,7 @@
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "uniqCompNum": 73,
+    "uniqCompNum": 75,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png"
   },
@@ -47,7 +47,7 @@
             "logo": true,
             "showBrand": false,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": true,
             "color": "#fff",
@@ -340,14 +340,14 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
-          "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><strong><br></strong><strong>Contacts</strong><br>Please use the online message portal. Alternatively you may contact us via our email address:<br>workwithus AT mbbtalent DOT com<br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Perm Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project hires</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Candidates</a></li></ul>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Contact Us</a>",
+          "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><br>\n<strong>Contacts</strong><br>Please use the contact form here. Alternatively, you can also email us:<br>workwithus [AT] mbbtalent [DOT] com",
+          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Permanent Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project Hires</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Candidates</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "study17777@gmail.com",
             "alerts": {
-              "success": "Thank you."
+              "success": "Thanks for filling out form!"
             },
             "fields": {
               "name": {
@@ -376,7 +376,7 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-20"
+          "_anchor": "contacts3-22"
         },
         {
           "_params": {
@@ -416,7 +416,7 @@
             "logo": true,
             "showBrand": false,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": true,
             "color": "#fff",
@@ -496,14 +496,14 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
-          "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><strong><br></strong><strong>Contacts</strong><br>Please use the online message portal. Alternatively you may contact us via our email address:<br>workwithus AT mbbtalent DOT com<br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Perm Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project hires</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Candidates</a></li></ul>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Contact Us</a>",
+          "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><br>\n<strong>Contacts</strong><br>Please use the contact form here. Alternatively, you can also email us:<br>workwithus [AT] mbbtalent [DOT] com",
+          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Permanent Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project Hires</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Candidates</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "study17777@gmail.com",
             "alerts": {
-              "success": "Thank you."
+              "success": "Thanks for filling out form!"
             },
             "fields": {
               "name": {
@@ -532,7 +532,7 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-20"
+          "_anchor": "contacts3-22"
         }
       ]
     },
@@ -551,7 +551,7 @@
             "logo": true,
             "showBrand": false,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": true,
             "color": "#fff",
@@ -631,14 +631,14 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
-          "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><strong><br></strong><strong>Contacts</strong><br>Please use the online message portal. Alternatively you may contact us via our email address:<br>workwithus AT mbbtalent DOT com<br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Perm Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project hires</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Candidates</a></li></ul>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Contact Us</a>",
+          "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><br>\n<strong>Contacts</strong><br>Please use the contact form here. Alternatively, you can also email us:<br>workwithus [AT] mbbtalent [DOT] com",
+          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Permanent Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project Hires</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Candidates</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "study17777@gmail.com",
             "alerts": {
-              "success": "Thank you."
+              "success": "Thanks for filling out form!"
             },
             "fields": {
               "name": {
@@ -667,7 +667,7 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-20"
+          "_anchor": "contacts3-22"
         }
       ]
     },
@@ -686,7 +686,7 @@
             "logo": true,
             "showBrand": false,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": true,
             "color": "#fff",
@@ -864,14 +864,14 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
-          "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><strong><br></strong><strong>Contacts</strong><br>Please use the online message portal. Alternatively you may contact us via our email address:<br>workwithus AT mbbtalent DOT com<br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Perm Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project hires</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Candidates</a></li></ul>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Contact Us</a>",
+          "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><br>\n<strong>Contacts</strong><br>Please use the contact form here. Alternatively, you can also email us:<br>workwithus [AT] mbbtalent [DOT] com",
+          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Permanent Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project Hires</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Candidates</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "study17777@gmail.com",
             "alerts": {
-              "success": "Thank you."
+              "success": "Thanks for filling out form!"
             },
             "fields": {
               "name": {
@@ -900,7 +900,7 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-20"
+          "_anchor": "contacts3-22"
         }
       ]
     },
@@ -919,7 +919,7 @@
             "logo": true,
             "showBrand": false,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": true,
             "color": "#fff",
@@ -1097,14 +1097,14 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
-          "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><strong><br></strong><strong>Contacts</strong><br>Please use the online message portal. Alternatively you may contact us via our email address:<br>workwithus AT mbbtalent DOT com<br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Perm Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project hires</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Candidates</a></li></ul>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Contact Us</a>",
+          "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><br>\n<strong>Contacts</strong><br>Please use the contact form here. Alternatively, you can also email us:<br>workwithus [AT] mbbtalent [DOT] com",
+          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Permanent Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project Hires</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Candidates</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "study17777@gmail.com",
             "alerts": {
-              "success": "Thank you."
+              "success": "Thanks for filling out form!"
             },
             "fields": {
               "name": {
@@ -1133,7 +1133,7 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-20"
+          "_anchor": "contacts3-22"
         }
       ]
     },
@@ -1152,7 +1152,7 @@
             "logo": true,
             "showBrand": false,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": true,
             "color": "#fff",
@@ -1330,14 +1330,14 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
-          "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><strong><br></strong><strong>Contacts</strong><br>Please use the online message portal. Alternatively you may contact us via our email address:<br>workwithus AT mbbtalent DOT com<br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Perm Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project hires</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Candidates</a></li></ul>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Contact Us</a>",
+          "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><br>\n<strong>Contacts</strong><br>Please use the contact form here. Alternatively, you can also email us:<br>workwithus [AT] mbbtalent [DOT] com",
+          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Permanent Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project Hires</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Candidates</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "study17777@gmail.com",
             "alerts": {
-              "success": "Thank you."
+              "success": "Thanks for filling out form!"
             },
             "fields": {
               "name": {
@@ -1366,7 +1366,7 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-20"
+          "_anchor": "contacts3-22"
         }
       ]
     },
@@ -1385,7 +1385,7 @@
             "logo": true,
             "showBrand": false,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": true,
             "color": "#fff",
@@ -1612,14 +1612,14 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
-          "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><strong><br></strong><strong>Contacts</strong><br>Please use the online message portal. Alternatively you may contact us via our email address:<br>workwithus AT mbbtalent DOT com<br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Perm Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project hires</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Candidates</a></li></ul>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Contact Us</a>",
+          "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><br>\n<strong>Contacts</strong><br>Please use the contact form here. Alternatively, you can also email us:<br>workwithus [AT] mbbtalent [DOT] com",
+          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Permanent Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project Hires</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Candidates</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "study17777@gmail.com",
             "alerts": {
-              "success": "Thank you."
+              "success": "Thanks for filling out form!"
             },
             "fields": {
               "name": {
@@ -1648,7 +1648,7 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-20"
+          "_anchor": "contacts3-22"
         }
       ]
     }
