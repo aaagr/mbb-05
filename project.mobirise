@@ -21,7 +21,7 @@
     "sitemapSwitcher": true,
     "siteUrl": "https://mbbtalent.com",
     "sitemapSwitcherAuto": "on",
-    "favicon": "@PROJECT_PATH@/assets/images/favicon-mbb-talent-v02-cut-128x127.png",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-mbb-talent-v03-cut-128x128.png",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
@@ -48,7 +48,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/social%20mbb-751x431.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/new%20social%20mbb%20talent%2001-882x567.png"
       },
       "components": [
         {
@@ -67,12 +67,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-colour-logo-v02-193x128.png",
+              "src": "@PROJECT_PATH@/assets/images/new-mbb-blue-red-green-logo-v01-200x128.png",
               "height": 128,
               "alt": "MBB Talent",
               "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -436,7 +435,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-colour-logo-v02-193x128.png",
+              "src": "@PROJECT_PATH@/assets/images/new-mbb-blue-red-green-logo-v01-200x128.png",
               "height": 128,
               "alt": "MBB Talent",
               "link": "index.html",
@@ -520,7 +519,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-colour-logo-v02-193x128.png",
+              "src": "@PROJECT_PATH@/assets/images/new-mbb-blue-red-green-logo-v01-200x128.png",
               "height": 128,
               "alt": "MBB Talent",
               "link": "index.html",
@@ -604,7 +603,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-colour-logo-v02-193x128.png",
+              "src": "@PROJECT_PATH@/assets/images/new-mbb-blue-red-green-logo-v01-200x128.png",
               "height": 128,
               "alt": "MBB Talent",
               "link": "index.html",
@@ -837,7 +836,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-colour-logo-v02-193x128.png",
+              "src": "@PROJECT_PATH@/assets/images/new-mbb-blue-red-green-logo-v01-200x128.png",
               "height": 128,
               "alt": "MBB Talent",
               "link": "index.html",
@@ -1070,7 +1069,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-colour-logo-v02-193x128.png",
+              "src": "@PROJECT_PATH@/assets/images/new-mbb-blue-red-green-logo-v01-200x128.png",
               "height": 128,
               "alt": "MBB Talent",
               "link": "index.html",
@@ -1303,7 +1302,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-colour-logo-v02-193x128.png",
+              "src": "@PROJECT_PATH@/assets/images/new-mbb-blue-red-green-logo-v01-200x128.png",
               "height": 128,
               "alt": "MBB Talent",
               "link": "index.html",
