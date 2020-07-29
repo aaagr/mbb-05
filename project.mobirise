@@ -7,7 +7,9 @@
       "styling": {},
       "titlePreset": "Landing Page",
       "nameSelectPreset": "landing",
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#424a4d"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "name": "Hiring",
@@ -16,30 +18,37 @@
     "imageResize": true,
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "sitemapSwitcher": false,
-    "siteUrl": false,
+    "sitemapSwitcher": true,
+    "siteUrl": "https://mbbtalent.com",
     "sitemapSwitcherAuto": "on",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-mbb-talent-v02-cut-128x127.png",
-    "cookiesAlert": false,
-    "gdpr": {
-      "colorText": "#a7a7a7",
-      "colorLink": "#149dcc",
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#424a4d",
       "underlineLink": false,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+      "opacity": "55",
+      "opacityOverlay": "80",
+      "text": "We use may use cookies. Read our <a href='policy.html'>policy</a>.",
+      "textButton": "Agree"
     },
     "uniqCompNum": 75,
     "versionPublish": "4.12.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "MBB Talent | Exit Opps for McKinsey Bain BCG Consultants | Executive Search, Project and Perm Hires for entities seeking ex-MBB consultants",
+        "meta_descr": "We find MBB talent exit opps and get the convos started.\nWe offer Executive Search, Project and Perm Hires for entities seeking MBB talent.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/social%20mbb-751x431.png"
       },
       "components": [
         {
@@ -347,7 +356,7 @@
             "title": "MESSAGE",
             "action": "webform@mbbtalent.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thank you for your message. We should get notification shortly. We anticipate a response within 48h. Usually it's much quicker than that."
             },
             "fields": {
               "name": {
@@ -367,7 +376,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Message (please incl. a shared link to your CV/JD)"
               }
             }
           },
@@ -571,8 +580,8 @@
     },
     "Project-hires.html": {
       "settings": {
-        "title": "Project Hires",
-        "meta_descr": "",
+        "title": "MBB | Project Hires",
+        "meta_descr": "Contact MBB Talent to deploy consultants with McKinsey Bain and BCG background for projects, freelancing contracting and sub-contracting needs.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -643,8 +652,8 @@
             "overlayOpacity": "0.8"
           },
           "title": "Project Hires",
-          "text": "Got a project starting soon and need to deploy a new team? Hire with us.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Project-hires.html#contacts3-1i\" data-toolbar=\"-mbrBtnMove\">Hire with us</a> ",
+          "text": "Got a project starting soon and need to deploy a new team with an MBB background? <br>Get in touch, let's discuss your needs.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Project-hires.html#contacts3-1i\" data-toolbar=\"-mbrBtnMove\">Get in touch</a> ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -769,7 +778,7 @@
             "title": "MESSAGE",
             "action": "webform@mbbtalent.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thank you for your message. We should get notification shortly. We anticipate a response within 48h. Usually it's much quicker than that."
             },
             "fields": {
               "name": {
@@ -789,7 +798,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Message (please incl. a shared link to your CV/JD)"
               }
             }
           },
@@ -804,8 +813,8 @@
     },
     "Perm-hires.html": {
       "settings": {
-        "title": "Permanent Hires",
-        "meta_descr": "",
+        "title": "MBB Talent | Permanent Hires",
+        "meta_descr": "Need one or more permanent hires with an MBB (McKinsey, Bain and BCG) background? \nYou've come to the right place.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -876,7 +885,7 @@
             "overlayOpacity": "0.8"
           },
           "title": "Permanent Hires",
-          "text": "Need one or more permanent hires? You've come to the right place.",
+          "text": "Need one or more permanent hires with an MBB (McKinsey, Bain and BCG) background? <br>You've come to the right place.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Perm-hires.html#contacts3-1i\" data-toolbar=\"-mbrBtnMove\">Hire with us</a> ",
           "alias": "purity/components",
           "_tags": [
@@ -1002,7 +1011,7 @@
             "title": "MESSAGE",
             "action": "webform@mbbtalent.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thank you for your message. We should get notification shortly. We anticipate a response within 48h. Usually it's much quicker than that."
             },
             "fields": {
               "name": {
@@ -1022,7 +1031,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Message (please incl. a shared link to your CV/JD)"
               }
             }
           },
@@ -1037,8 +1046,8 @@
     },
     "Executive-search.html": {
       "settings": {
-        "title": "Executive Search",
-        "meta_descr": "",
+        "title": "MBB Talent | Executive Search",
+        "meta_descr": "Head hunting MBB McKinsey Bain BCG talent for hard-to-place job roles.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -1109,7 +1118,7 @@
             "overlayOpacity": "0.8"
           },
           "title": "Executive Search",
-          "text": "Head hunting hard-to-place positions.",
+          "text": "Head hunting MBB (McKinsey, Bain &amp; BCG) talent for hard-to-place job roles.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Executive-search.html#contacts3-1i\" data-toolbar=\"-mbrBtnMove\">Hire with us</a> ",
           "alias": "purity/components",
           "_tags": [
@@ -1235,7 +1244,7 @@
             "title": "MESSAGE",
             "action": "webform@mbbtalent.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thank you for your message. We should get notification shortly. We anticipate a response within 48h. Usually it's much quicker than that."
             },
             "fields": {
               "name": {
@@ -1255,7 +1264,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Message (please incl. a shared link to your CV/JD)"
               }
             }
           },
@@ -1270,8 +1279,8 @@
     },
     "Candidates.html": {
       "settings": {
-        "title": "Candidates",
-        "meta_descr": "",
+        "title": "MBB Talent | Candidates",
+        "meta_descr": "We find MBB (McKinsey, Bain and BCG) consultants exit opportunities and get the convorsations started with future employers.\n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -1517,7 +1526,7 @@
             "title": "MESSAGE",
             "action": "webform@mbbtalent.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thank you for your message. We should get notification shortly. We anticipate a response within 48h. Usually it's much quicker than that."
             },
             "fields": {
               "name": {
@@ -1537,7 +1546,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Message (please incl. a shared link to your CV/JD)"
               }
             }
           },
