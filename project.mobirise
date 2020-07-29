@@ -27,7 +27,7 @@
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "uniqCompNum": 69,
+    "uniqCompNum": 70,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png"
   },
@@ -1444,7 +1444,7 @@
           "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Perm Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project hires</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Candidates</a></li></ul>",
           "form": {
             "title": "MESSAGE",
-            "action": "web@mbbtalent.com",
+            "action": "info@mbbtalent.com",
             "alerts": {
               "success": "Thank you."
             },
