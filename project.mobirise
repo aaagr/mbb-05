@@ -115,7 +115,7 @@
           },
           "title": "MBB Talent",
           "text": "We find MBB talent exit opps and get the convos started.<br>We offer Executive Search, Project and Perm Hires for entities seeking MBB talent.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#contacts3-1i\" data-toolbar=\"-mbrBtnMove\">Work with us</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#contacts3-22\" data-toolbar=\"-mbrBtnMove\">Work with us</a> ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -265,7 +265,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "MBB talent looking for exit opps?<br>Hiring MBB talent?<br><br>Leave us a <a href=\"index.html#contacts3-1i\" class=\"text-info\">message below</a> with a shared link to your current goal (incl. CV/JD, etc.).<br>We'll get back to you asap.",
+          "title": "MBB talent looking for exit opps?<br>Hiring MBB talent?<br><br>Leave us a <a href=\"index.html#contacts3-22\" class=\"text-info\">message below</a>.<br>We'll get back to you asap.",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Try for Free</a>",
           "alias": "purity/components",
