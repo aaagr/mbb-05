@@ -35,7 +35,7 @@
       "textButton": "Agree"
     },
     "uniqCompNum": 75,
-    "versionPublish": "5.0.29",
+    "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "gdpr": false
   },
@@ -114,7 +114,7 @@
             "overlayOpacity": "0.8"
           },
           "title": "MBB Talent",
-          "text": "The consultancy for management consultants.<br>After delivering a premium service for clients, now is the time to be the client yourself.<br>",
+          "text": "We find MBB talent exit opps and get the convos started.<br>We offer Executive Search, Project and Perm Hires for entities seeking MBB talent.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#contacts3-22\" data-toolbar=\"-mbrBtnMove\">Work with us</a> ",
           "alias": "purity/components",
           "_tags": [
@@ -174,7 +174,7 @@
             }
           },
           "title": "Our Services",
-          "text": "<p>Our talent pool is made exclusively from candidates who've worked with McKinsey, Bain, BCG; Big Four; BBB, etc. We offer an exclusive network of like-minded professionals to discuss common goals and interests.&nbsp;</p><p>High-fliers with high expectations need a high quality service. Are you ready to become our client?</p>",
+          "text": "<p>Our talent pool is made exclusively from candidates who've worked with McKinsey, Bain or BCG.<br><br>Whether you need headhunting for a single hard-to-place role; multiple hires for a project due for kickoff soon; or simply a regular permanent hire, we work with you to understand and cater for your needs.</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1117,7 +1117,7 @@
             "overlayOpacity": "0.8"
           },
           "title": "Executive Search",
-          "text": "Headhunting MBB (McKinsey, Bain &amp; BCG) talent for hard-to-place job roles.",
+          "text": "Head hunting MBB (McKinsey, Bain &amp; BCG) talent for hard-to-place job roles.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Executive-search.html#contacts3-22\" data-toolbar=\"-mbrBtnMove\">Hire with us</a> ",
           "alias": "purity/components",
           "_tags": [
