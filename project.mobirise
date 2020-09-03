@@ -21,7 +21,7 @@
     "sitemapSwitcher": true,
     "siteUrl": "https://mbbtalent.com",
     "sitemapSwitcherAuto": "on",
-    "favicon": "@PROJECT_PATH@/assets/images/favicon-mbb-talent-v04-cut-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-mbb-talent-new-01-128x128.png",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
@@ -48,7 +48,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/new%20social%20mbb%20talent%2001-882x567.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/new%20social%20mbb%20talent%2001-1-882x567.png"
       },
       "components": [
         {
@@ -1046,7 +1046,7 @@
     "Executive-search.html": {
       "settings": {
         "title": "MBB Talent | Executive Search",
-        "meta_descr": "Head hunting MBB McKinsey Bain BCG talent for hard-to-place job roles.",
+        "meta_descr": "Headhunting MBB McKinsey Bain BCG talent for hard-to-place job roles.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
