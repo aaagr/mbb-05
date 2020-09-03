@@ -37,7 +37,9 @@
     "uniqCompNum": 75,
     "versionPublish": "5.0.29",
     "screenshot": "screenshot.png",
-    "gdpr": false
+    "gdpr": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
