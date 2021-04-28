@@ -12,7 +12,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "Hiring-clone 02 mbbros",
+    "name": "Hiring",
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "imageResize": true,
@@ -37,14 +37,16 @@
     "uniqCompNum": 75,
     "versionPublish": "5.0.29",
     "screenshot": "screenshot.png",
-    "gdpr": false
+    "gdpr": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "MBB Talent | Exit Opps for experienced pros | Executive Search, Project and Perm Hires for entities seeking consultants",
-        "meta_descr": "We find talent exit opps and get the convos started.\nWe offer Executive Search, Project and Perm Hires for entities seeking specific talent.",
+        "title": "MBB Talent | Exit Opps for McKinsey Bain BCG Consultants | Executive Search, Project and Perm Hires for entities seeking ex-MBB consultants",
+        "meta_descr": "We find MBB talent exit opps and get the convos started.\nWe offer Executive Search, Project and Perm Hires for entities seeking MBB talent.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -114,7 +116,7 @@
             "overlayOpacity": "0.8"
           },
           "title": "MBB Talent",
-          "text": "Medical and Business Brothers, where healthcare meets business.<br>After delivering a premium service for clients, now is the time to be the client yourself.<br>",
+          "text": "The consultancy for management consultants.<br>After delivering a premium service for clients, now is the time to be the client yourself.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#contacts3-22\" data-toolbar=\"-mbrBtnMove\">Work with us</a> ",
           "alias": "purity/components",
           "_tags": [
@@ -174,7 +176,7 @@
             }
           },
           "title": "Our Services",
-          "text": "<p>Our talent pool is made up of candidates who are either healthcare professionals or management/business personnel who work in and around healthcare. We offer an exclusive network of like-minded professionals to discuss common goals and interests.&nbsp;</p><p>High-fliers with high expectations need a high quality service. Are you ready to become our client?</p>",
+          "text": "<p>Our talent pool is made exclusively from candidates who've worked with McKinsey, Bain, BCG; Big Four; BBB, etc. We offer an exclusive network of like-minded professionals to discuss common goals and interests.&nbsp;</p><p>High-fliers with high expectations need a high quality service. Are you ready to become our client?</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -205,12 +207,12 @@
           "items": [
             {
               "authorName": "MBB Talent Pool's Snr. Candidate",
-              "authorBio": "Exiting or former NHSX",
+              "authorBio": "Exiting or former BCG",
               "text": "<p><i>I don't have time to search for the perfect job. I also get loads of recruiters bugging me for jobs that are not the right fit.</i></p><p><i> </i></p><p><i>With MBB Talent</i><i style=\"font-size: 1rem;\">&nbsp;I don't need to worry about searching for the right job. They do all the searching for me and kickstart the initial conversation with an employer I'm interested in working with.</i></p>"
             },
             {
               "authorName": "Hiring Entity",
-              "authorBio": "Seeking a Director with 3 yr senior tendering&nbsp; experience",
+              "authorBio": "Seeking a Director with 3 yr senior MBB experience",
               "text": "<p><em>We get direct access to the talent with the right experience.&nbsp;</em><em style=\"font-size: 1rem;\">MBB Talent catalyses the initial conversation when both we and the candidate have a mutual interest.</em></p><p><em>There is no back and forth. Simple, transparent and direct hiring, with help and support as and when needed.</em></p>"
             },
             {
@@ -228,12 +230,12 @@
           "testimonial": [
             {
               "authorName": "MBB Talent Pool's Snr. Candidate",
-              "authorBio": "Exiting or former NHSX",
+              "authorBio": "Exiting or former BCG",
               "text": "<p><i>I don't have time to search for the perfect job. I also get loads of recruiters bugging me for jobs that are not the right fit.</i></p><p><i> </i></p><p><i>With MBB Talent</i><i style=\"font-size: 1rem;\">&nbsp;I don't need to worry about searching for the right job. They do all the searching for me and kickstart the initial conversation with an employer I'm interested in working with.</i></p>"
             },
             {
               "authorName": "Hiring Entity",
-              "authorBio": "Seeking a Director with 3 yr senior tendering&nbsp; experience",
+              "authorBio": "Seeking a Director with 3 yr senior MBB experience",
               "text": "<p><em>We get direct access to the talent with the right experience.&nbsp;</em><em style=\"font-size: 1rem;\">MBB Talent catalyses the initial conversation when both we and the candidate have a mutual interest.</em></p><p><em>There is no back and forth. Simple, transparent and direct hiring, with help and support as and when needed.</em></p>"
             },
             {
@@ -399,7 +401,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "© 2021 MBB Talent.&nbsp;<a href=\"terms.html#content1-1h\" class=\"text-info\">Ts &amp; Cs</a>&nbsp;| <a href=\"policy.html#content1-1k\" class=\"text-info\">Privacy Policy</a>",
+          "text": "© 2020 MBB Talent.&nbsp;<a href=\"terms.html#content1-1h\" class=\"text-info\">Ts &amp; Cs</a>&nbsp;| <a href=\"policy.html#content1-1k\" class=\"text-info\">Privacy Policy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -483,7 +485,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "© 2021 MBB Talent.&nbsp;<a href=\"terms.html#content1-1h\" class=\"text-info\">Ts &amp; Cs</a>&nbsp;| <a href=\"policy.html#content1-1k\" class=\"text-info\">Privacy Policy</a>",
+          "text": "© 2020 MBB Talent.&nbsp;<a href=\"terms.html#content1-1h\" class=\"text-info\">Ts &amp; Cs</a>&nbsp;| <a href=\"policy.html#content1-1k\" class=\"text-info\">Privacy Policy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -567,7 +569,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "© 2021 MBB Talent.&nbsp;<a href=\"terms.html#content1-1h\" class=\"text-info\">Ts &amp; Cs</a>&nbsp;| <a href=\"policy.html#content1-1k\" class=\"text-info\">Privacy Policy</a>",
+          "text": "© 2020 MBB Talent.&nbsp;<a href=\"terms.html#content1-1h\" class=\"text-info\">Ts &amp; Cs</a>&nbsp;| <a href=\"policy.html#content1-1k\" class=\"text-info\">Privacy Policy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -651,7 +653,7 @@
             "overlayOpacity": "0.8"
           },
           "title": "Project Hires",
-          "text": "Got a project starting soon and need to deploy a new team on a temporary/locum basis? <br>Get in touch, let's discuss your needs.",
+          "text": "Got a project starting soon and need to deploy a new team with an MBB background? <br>Get in touch, let's discuss your needs.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Project-hires.html#contacts3-22\" data-toolbar=\"-mbrBtnMove\">Get in touch</a> ",
           "alias": "purity/components",
           "_tags": [
@@ -749,7 +751,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "© 2021 MBB Talent.&nbsp;<a href=\"terms.html#content1-1h\" class=\"text-info\">Ts &amp; Cs</a>&nbsp;| <a href=\"policy.html#content1-1k\" class=\"text-info\">Privacy Policy</a>",
+          "text": "© 2020 MBB Talent.&nbsp;<a href=\"terms.html#content1-1h\" class=\"text-info\">Ts &amp; Cs</a>&nbsp;| <a href=\"policy.html#content1-1k\" class=\"text-info\">Privacy Policy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -884,7 +886,7 @@
             "overlayOpacity": "0.8"
           },
           "title": "Permanent Hires",
-          "text": "Need one or more permanent hires with a specific background? <br>You've come to the right place.",
+          "text": "Need one or more permanent hires with an MBB (McKinsey, Bain and BCG) background? <br>You've come to the right place.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Perm-hires.html#contacts3-22\" data-toolbar=\"-mbrBtnMove\">Hire with us</a> ",
           "alias": "purity/components",
           "_tags": [
@@ -982,7 +984,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "© 2021 MBB Talent.&nbsp;<a href=\"terms.html#content1-1h\" class=\"text-info\">Ts &amp; Cs</a>&nbsp;| <a href=\"policy.html#content1-1k\" class=\"text-info\">Privacy Policy</a>",
+          "text": "© 2020 MBB Talent.&nbsp;<a href=\"terms.html#content1-1h\" class=\"text-info\">Ts &amp; Cs</a>&nbsp;| <a href=\"policy.html#content1-1k\" class=\"text-info\">Privacy Policy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1117,7 +1119,7 @@
             "overlayOpacity": "0.8"
           },
           "title": "Executive Search",
-          "text": "Headhunting talent for hard-to-place job roles.",
+          "text": "Headhunting MBB (McKinsey, Bain &amp; BCG) talent for hard-to-place job roles.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Executive-search.html#contacts3-22\" data-toolbar=\"-mbrBtnMove\">Hire with us</a> ",
           "alias": "purity/components",
           "_tags": [
@@ -1215,7 +1217,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "© 2021 MBB Talent.&nbsp;<a href=\"terms.html#content1-1h\" class=\"text-info\">Ts &amp; Cs</a>&nbsp;| <a href=\"policy.html#content1-1k\" class=\"text-info\">Privacy Policy</a>",
+          "text": "© 2020 MBB Talent.&nbsp;<a href=\"terms.html#content1-1h\" class=\"text-info\">Ts &amp; Cs</a>&nbsp;| <a href=\"policy.html#content1-1k\" class=\"text-info\">Privacy Policy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1447,7 +1449,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "© 2021 MBB Talent.&nbsp;<a href=\"terms.html#content1-1h\" class=\"text-info\">Ts &amp; Cs</a>&nbsp;| <a href=\"policy.html#content1-1k\" class=\"text-info\">Privacy Policy</a>",
+          "text": "© 2020 MBB Talent.&nbsp;<a href=\"terms.html#content1-1h\" class=\"text-info\">Ts &amp; Cs</a>&nbsp;| <a href=\"policy.html#content1-1k\" class=\"text-info\">Privacy Policy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
