@@ -53,7 +53,7 @@
       "components": [
         {
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "showButtons": false,
             "sticky": false,
@@ -62,7 +62,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Executive-search.html\">Executive Deployment</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Perm-hires.html\">Secondment Support</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Project-hires.html\">Project Support</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Candidates.html#header4-1s\">Careers</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Executive-deployment.html#header4-t\">Executive Deployment</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Secondment-support.html#header4-10\">Secondment Support</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Project-support.html#header4-16\">Project Support</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Careers.html#header4-1s\">Careers</a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -114,7 +114,7 @@
             "overlayOpacity": "0.8"
           },
           "title": "MBB",
-          "text": "Medical and Business Brilliance. Where healthcare meets business.<br>We assist with small and large healthcare related projects.&nbsp;<br>",
+          "text": "MBB — where healthcare meets business.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#contacts3-22\" data-toolbar=\"-mbrBtnMove\">Work with us</a> ",
           "alias": "purity/components",
           "_tags": [
@@ -174,7 +174,7 @@
             }
           },
           "title": "Our Services",
-          "text": "<p>Depending on your needs, you'll be working with healthcare professionals or management/business personnel who work in and around healthcare. </p><p>We assist clients seeking to improve efficiencies, grow profits or manage projects.</p><p><span style=\"font-size: 1.25rem;\">Are you ready to become our client?</span></p>",
+          "text": "<p>We assist with small and large healthcare related projects. Depending on your needs, you'll be working with healthcare professionals or management/business personnel who work in and around healthcare. </p><p>We assist clients seeking to improve efficiencies, grow profits or manage projects.</p><p><span style=\"font-size: 1.25rem;\">Are you ready to become our client?</span></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -206,17 +206,17 @@
             {
               "authorName": "Covid-19 Vaccination<br>Pharmacy-led Clinical Project",
               "authorBio": "Pharmacy and NHS supported Project Owner",
-              "text": "<p><i>I don't have time to search for the right team. I also get loads of recruiters bugging me with services that are not the right fit.</i></p><p><i> </i></p><p><i>With MBB Talent</i><i style=\"font-size: 1rem;\">&nbsp;I don't need to worry about that.&nbsp;</i><i style=\"font-size: 1rem;\">They have a background in the industry where my current resources are lacking.</i></p>"
+              "text": "<p><i>I don't have time to search for the right team. I also get loads of recruiters bugging me with services that are not the right fit.</i></p><p><i> </i></p><p><i>With MBB</i><i style=\"font-size: 1rem;\">&nbsp;I don't need to worry about that.&nbsp;</i><i style=\"font-size: 1rem;\">They have a background in the industry where my current resources are lacking.</i></p>"
             },
             {
-              "authorName": "8-Figure Healthcare Tender<br>Health Ministry Project",
+              "authorName": "8 and 6-Figure Healthcare Tenders<br>Health Ministry Project",
               "authorBio": "Senior Manager at Big Four Firm",
-              "text": "<p><em>We got access to the right vendors including a Master Vendor.&nbsp;</em><em style=\"font-size: 1rem;\">MBB Talent's Consultant was able to assist and deliver on short notice.</em></p><p><em>Our Partner was also pleased to handover a valuable out-of-scope deliverable to our client made by MBB Talent's Consultant.</em></p>"
+              "text": "<p><em>We got access to the right vendors including a Master Vendor.&nbsp;</em><em style=\"font-size: 1rem;\">MBB's Consultant was able to assist and deliver on short notice.</em></p><p><em>Our Partner was also pleased to handover a valuable out-of-scope deliverable to our client made by MBB's Consultant.</em></p>"
             },
             {
               "authorName": "Recruitment Acceleration Operation&nbsp;<br>Health Ministry Project",
               "authorBio": "Senior Manager at Big Four Firm",
-              "text": "<p><em>We don't always have the right pipeline of candidates and this means it's more cost effective to reach out to someone who does.</em></p><p><i>I've been involved in this industry for several years. I can say on this occasion, deliverables were completed at record time.</i></p>"
+              "text": "<p><em>We don't always have the right pipeline of candidates and this means it's more cost effective to reach out to someone who does.</em></p><p><i>I've been involved in this industry for several years and on this project deliverables were completed at record time.</i></p>"
             }
           ],
           "alias": "purity/components",
@@ -421,7 +421,7 @@
       "components": [
         {
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "showButtons": false,
             "sticky": false,
@@ -430,7 +430,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Executive-search.html\">Executive Deployment</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Perm-hires.html\">Secondment Support</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Project-hires.html\">Project Support</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Candidates.html#header4-1s\">Careers</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Executive-deployment.html#header4-t\">Executive Deployment</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Secondment-support.html#header4-10\">Secondment Support</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Project-support.html#header4-16\">Project Support</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Careers.html#header4-1s\">Careers</a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -505,7 +505,7 @@
       "components": [
         {
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "showButtons": false,
             "sticky": false,
@@ -514,7 +514,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Executive-search.html\">Executive Deployment</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Perm-hires.html\">Secondment Support</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Project-hires.html\">Project Support</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Candidates.html#header4-1s\">Careers</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Executive-deployment.html#header4-t\">Executive Deployment</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Secondment-support.html#header4-10\">Secondment Support</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Project-support.html#header4-16\">Project Support</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Careers.html#header4-1s\">Careers</a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -589,7 +589,7 @@
       "components": [
         {
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "showButtons": false,
             "sticky": false,
@@ -598,7 +598,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Executive-search.html\">Executive Deployment</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Perm-hires.html\">Secondment Support</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Project-hires.html\">Project Support</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Candidates.html#header4-1s\">Careers</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Executive-deployment.html#header4-t\">Executive Deployment</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Secondment-support.html#header4-10\">Secondment Support</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Project-support.html#header4-16\">Project Support</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Careers.html#header4-1s\">Careers</a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -822,7 +822,7 @@
       "components": [
         {
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "showButtons": false,
             "sticky": false,
@@ -831,7 +831,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Executive-search.html\">Executive Deployment</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Perm-hires.html\">Secondment Support</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Project-hires.html\">Project Support</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Candidates.html#header4-1s\">Careers</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Executive-deployment.html#header4-t\">Executive Deployment</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Secondment-support.html#header4-10\">Secondment Support</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Project-support.html#header4-16\">Project Support</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Careers.html#header4-1s\">Careers</a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -1055,7 +1055,7 @@
       "components": [
         {
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "showButtons": false,
             "sticky": false,
@@ -1064,7 +1064,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Executive-search.html\">Executive Deployment</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Perm-hires.html\">Secondment Support</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Project-hires.html\">Project Support</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Candidates.html#header4-1s\">Careers</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Executive-deployment.html#header4-t\">Executive Deployment</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Secondment-support.html#header4-10\">Secondment Support</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Project-support.html#header4-16\">Project Support</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Careers.html#header4-1s\">Careers</a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -1288,7 +1288,7 @@
       "components": [
         {
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "showButtons": false,
             "sticky": false,
@@ -1297,7 +1297,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Executive-search.html\">Executive Deployment</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Perm-hires.html\">Secondment Support</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Project-hires.html\">Project Support</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Candidates.html#header4-1s\">Careers</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Executive-deployment.html#header4-t\">Executive Deployment</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Secondment-support.html#header4-10\">Secondment Support</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Project-support.html#header4-16\">Project Support</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Careers.html#header4-1s\">Careers</a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
