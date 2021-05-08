@@ -12,7 +12,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "Hiring-clone 02 mbbros",
+    "name": "MBB non-recruiter",
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "imageResize": true,
@@ -43,8 +43,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "MBB Talent | Exit Opps for experienced pros | Executive Search, Project and Perm Hires",
-        "meta_descr": "We find talent exit opps and get the convos started.\nWe offer Executive Search, Project and Perm Hires for entities seeking specific talent.",
+        "title": "MBB | Healthcare and Management Professionals",
+        "meta_descr": "Deploy a team of healthcare and management professionals to assist your project or business.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -62,7 +62,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Executive-search.html\">Executive Search</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Perm-hires.html\">Permanent Hires</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Project-hires.html\">Project Hires</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Candidates.html#header4-1s\">Candidates</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Executive-search.html\">Executive Deployment</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Perm-hires.html\">Secondment Support</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Project-hires.html\">Project Support</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Candidates.html#header4-1s\">Careers</a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -113,8 +113,8 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.8"
           },
-          "title": "MBB Talent",
-          "text": "Medical and Business Brothers, where healthcare meets business.<br>After delivering a premium service for clients, now is the time to be the client yourself.<br>",
+          "title": "MBB",
+          "text": "Medical and Business Brilliance. Where healthcare meets business.<br>We assist with small and large healthcare related projects.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#contacts3-22\" data-toolbar=\"-mbrBtnMove\">Work with us</a> ",
           "alias": "purity/components",
           "_tags": [
@@ -174,7 +174,7 @@
             }
           },
           "title": "Our Services",
-          "text": "<p>Our talent pool is made up of candidates who are either healthcare professionals or management/business personnel who work in and around healthcare. We offer an exclusive network of like-minded professionals to discuss common goals and interests.&nbsp;</p><p>High-fliers with high expectations need a high quality service. Are you ready to become our client?</p>",
+          "text": "<p>Depending on your needs, you'll be working with healthcare professionals or management/business personnel who work in and around healthcare. </p><p>We assist clients seeking to improve efficiencies, grow profits or manage projects.</p><p><span style=\"font-size: 1.25rem;\">Are you ready to become our client?</span></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -204,19 +204,19 @@
           "header": "Who we serve",
           "items": [
             {
-              "authorName": "MBB Talent Pool's Snr. Candidate",
-              "authorBio": "Exiting or former NHSX",
-              "text": "<p><i>I don't have time to search for the perfect job. I also get loads of recruiters bugging me for jobs that are not the right fit.</i></p><p><i> </i></p><p><i>With MBB Talent</i><i style=\"font-size: 1rem;\">&nbsp;I don't need to worry about searching for the right job. They do all the searching for me and kickstart the initial conversation with an employer I'm interested in working with.</i></p>"
+              "authorName": "Covid-19 Vaccination<br>Pharmacy-led Clinical Project",
+              "authorBio": "Pharmacy and NHS supported Project Owner",
+              "text": "<p><i>I don't have time to search for the right team. I also get loads of recruiters bugging me with services that are not the right fit.</i></p><p><i> </i></p><p><i>With MBB Talent</i><i style=\"font-size: 1rem;\">&nbsp;I don't need to worry about that.&nbsp;</i><i style=\"font-size: 1rem;\">They have a background in the industry where my current resources are lacking.</i></p>"
             },
             {
-              "authorName": "Hiring Entity",
-              "authorBio": "Seeking a Director with 3 yr senior tendering&nbsp; experience",
-              "text": "<p><em>We get direct access to the talent with the right experience.&nbsp;</em><em style=\"font-size: 1rem;\">MBB Talent catalyses the initial conversation when both we and the candidate have a mutual interest.</em></p><p><em>There is no back and forth. Simple, transparent and direct hiring, with help and support as and when needed.</em></p>"
+              "authorName": "8-Figure Healthcare Tender<br>Health Ministry Project",
+              "authorBio": "Senior Manager at Big Four Firm",
+              "text": "<p><em>We got access to the right vendors including a Master Vendor.&nbsp;</em><em style=\"font-size: 1rem;\">MBB Talent's Consultant was able to assist and deliver on short notice.</em></p><p><em>Our Partner was also pleased to handover a valuable out-of-scope deliverable to our client made by MBB Talent's Consultant.</em></p>"
             },
             {
-              "authorName": "Third-Party Recruitment",
-              "authorBio": "Urgently need a candidate outside of the firm's reach",
-              "text": "<p><em>We don't always have the right pipeline of candidates and this means it's more cost effective to reach out to someone who does.</em></p><p><em>Reaching out to MBB Talent means getting access to pre-qualified candidates and thus accelerating the whole process.</em></p>"
+              "authorName": "Recruitment Acceleration Operation&nbsp;<br>Health Ministry Project",
+              "authorBio": "Senior Manager at Big Four Firm",
+              "text": "<p><em>We don't always have the right pipeline of candidates and this means it's more cost effective to reach out to someone who does.</em></p><p><i>I've been involved in this industry for several years. I can say on this occasion, deliverables were completed at record time.</i></p>"
             }
           ],
           "alias": "purity/components",
@@ -227,19 +227,19 @@
           "_anchor": "testimonials1-1q",
           "testimonial": [
             {
-              "authorName": "MBB Talent Pool's Snr. Candidate",
-              "authorBio": "Exiting or former NHSX",
-              "text": "<p><i>I don't have time to search for the perfect job. I also get loads of recruiters bugging me for jobs that are not the right fit.</i></p><p><i> </i></p><p><i>With MBB Talent</i><i style=\"font-size: 1rem;\">&nbsp;I don't need to worry about searching for the right job. They do all the searching for me and kickstart the initial conversation with an employer I'm interested in working with.</i></p>"
+              "authorName": "Covid-19 Vaccination<br>Pharmacy-led Clinical Project",
+              "authorBio": "Pharmacy and NHS supported Project Owner",
+              "text": "<p><i>I don't have time to search for the right team. I also get loads of recruiters bugging me with services that are not the right fit.</i></p><p><i> </i></p><p><i>With MBB</i><i style=\"font-size: 1rem;\">&nbsp;I don't need to worry about that.&nbsp;</i><i style=\"font-size: 1rem;\">They have a background in the industry where my current resources are lacking.</i></p>"
             },
             {
-              "authorName": "Hiring Entity",
-              "authorBio": "Seeking a Director with 3 yr senior tendering&nbsp; experience",
-              "text": "<p><em>We get direct access to the talent with the right experience.&nbsp;</em><em style=\"font-size: 1rem;\">MBB Talent catalyses the initial conversation when both we and the candidate have a mutual interest.</em></p><p><em>There is no back and forth. Simple, transparent and direct hiring, with help and support as and when needed.</em></p>"
+              "authorName": "8 and 6-Figure Healthcare Tenders<br>Health Ministry Project",
+              "authorBio": "Senior Manager at Big Four Firm",
+              "text": "<p><em>We got access to the right vendors including a Master Vendor.&nbsp;</em><em style=\"font-size: 1rem;\">MBB's Consultant was able to assist and deliver on short notice.</em></p><p><em>Our Partner was also pleased to handover a valuable out-of-scope deliverable to our client made by MBB's Consultant.</em></p>"
             },
             {
-              "authorName": "Third-Party Recruitment",
-              "authorBio": "Urgently need a candidate outside of the firm's reach",
-              "text": "<p><em>We don't always have the right pipeline of candidates and this means it's more cost effective to reach out to someone who does.</em></p><p><em>Reaching out to MBB Talent means getting access to pre-qualified candidates and thus accelerating the whole process.</em></p>"
+              "authorName": "Recruitment Acceleration Operation&nbsp;<br>Health Ministry Project",
+              "authorBio": "Senior Manager at Big Four Firm",
+              "text": "<p><em>We don't always have the right pipeline of candidates and this means it's more cost effective to reach out to someone who does.</em></p><p><i>I've been involved in this industry for several years and on this project deliverables were completed at record time.</i></p>"
             }
           ]
         },
@@ -265,7 +265,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "MBB talent looking for exit opps?<br>Hiring MBB talent?<br><br>Leave us a <a href=\"index.html#contacts3-22\" class=\"text-info\">message below</a>.<br>We'll get back to you asap.",
+          "title": "Looking for project assistance?<br><br>Leave us a <a href=\"index.html#contacts3-22\" class=\"text-info\">message below</a>.<br>We'll get back to you asap.",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Try for Free</a>",
           "alias": "purity/components",
@@ -350,7 +350,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
           "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><br>\n<strong>Contacts</strong><br>Please use the contact form here. Alternatively, you can also email us:<br>workwithus [AT] mbbtalent [DOT] com",
-          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Permanent Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project Hires</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Candidates</a></li></ul>",
+          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-deployment.html#header4-t\" class=\"text-info text-primary\">Executive Deployment</a></li><li><a href=\"Secondment-support.html#header4-10\" class=\"text-info text-primary\">Secondment Support</a></li><li><a href=\"Project-support.html#header4-16\" class=\"text-info text-primary\">Project Support</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Careers</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "webform@mbbtalent.com",
@@ -375,7 +375,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message (please incl. a shared link to your CV/JD)"
+                "customTitle": "Message"
               }
             }
           },
@@ -430,7 +430,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Executive-search.html\">Executive Search</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Perm-hires.html\">Permanent Hires</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Project-hires.html\">Project Hires</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Candidates.html#header4-1s\">Candidates</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Executive-search.html\">Executive Deployment</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Perm-hires.html\">Secondment Support</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Project-hires.html\">Project Support</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Candidates.html#header4-1s\">Careers</a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -514,7 +514,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Executive-search.html\">Executive Search</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Perm-hires.html\">Permanent Hires</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Project-hires.html\">Project Hires</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Candidates.html#header4-1s\">Candidates</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Executive-search.html\">Executive Deployment</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Perm-hires.html\">Secondment Support</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Project-hires.html\">Project Support</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Candidates.html#header4-1s\">Careers</a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -546,7 +546,7 @@
           "_anchor": "menu-1b"
         },
         {
-          "text": "<p>Terms &amp; Conditions</p><p><br></p><p>None of the material on this website may be published, broadcast, re-written or re-distributed in any form without the expressed written permission of MBB Talent or the copyright holder of the material.</p><p><br></p><p>However, any person is hereby authorised to view, copy, and print any document(s) or image(s) published by MBB Talent on its WWW server or any other published source provided that: Reference to MBB Talent is made when the document(s) or image(s) is used, as follows:</p><p><br></p><p>© 2020 MBB Talent</p><p><br></p><p>• The document is used for informational purposes only.</p><p>• The document is used for personal and non-commercial purposes only</p><p>• The document will not be copied or posted on any network computer or broadcast in any media.</p><p>• No modifications of any documents are made.</p><p><br></p><p>Use for any other purpose is expressly prohibited by law, and may result in severe civil and criminal penalties. Violators will be prosecuted to the maximum extent possible. Note that any product, process or technology described in a document on this server may be subject of other Intellectual Property Rights reserved by MBB Talent and not licensed hereunder.</p><p><br></p><p>Trademarks</p><p><br></p><p>The trademarks, service marks, trade names, logos and other indications of origin displayed in this website (“Trademarks”) are owned by MBB Talent or a third party who has granted MBB Talent a right to use them in this website. Nothing contained herein should be construed as granting the browser or user of this website the right to use any Trademark displayed in this site without the written permission of the owner of the Trademark.</p><p><br></p><p>Disclaimer</p><p><br></p><p>By using this website you agree that:</p><p><br></p><p>•\tIf you are dissatisfied with any portion of the MBB Talent Web Site, or with any of these terms and conditions of use, your sole and exclusive remedy is to discontinue using this website</p><p>•\tYou will be bound by these Rules of Use. MBB Talent reserves the right to revise the Rules of Use at any time, without notice, and you hereby agree to be bound by such changes. The permission granted herein by MBB Talent may be terminated at any time without cause or notice</p><p>•\tYou may not, without express permission from MBB Talent, take any pages from this Web Site and reformat and display them. You also may not mirror any pages on your website</p><p>•\tYour use of this website does not create a license or any other rights in MBB Talent trademarks, service marks, copyrights, or any other intellectual property or proprietary rights.</p><p><br></p><p>MBB Talent are not responsible for the content of, nor aware of all sites that are linked to this website. The fact that another website is linked to this website does not imply that:</p><p>•\tMBB Talent sponsors, licenses, endorses, is affiliated with or is otherwise connected to the site, the products or services described therein or its owner</p><p>•\tMBB Talent have authorised the linked site to use any trademark, trade name, logo or other trademarked or copyrighted material of MBB Talent.</p><p><br></p><p>In general, MBB Talent believe that persons who make information available on the World Wide Web or in newsgroups do so with the expectation that such information will be publicly and widely available. MBB Talent further believes that its making newsgroup postings and links to publicly accessible Web pages available at this site is legally permissible and consistent with the common, customary expectations of those who make use of the Web and Usenet communications media.</p><p><br></p><p>We may, from time to time, ask demographic or personal preference questions. You are never required to answer these questions. This data may be used, generically and not assigned to specific customers, for identification of overall site demographics, user preferences and tastes. MBB Talent will never wilfully disclose individually identifiable information about its clients to any third party without first receiving that users specific permission.</p><p><br></p><p>We catalogue traffic patterns throughout the site, including identifying browser and system data. We gather this data to optimise site conditions for our users. This data, with no personal information, may also be provided to advertisers and potential advertisers so they may better evaluate their advertising options.</p><p><br></p><p>We may occasionally send you e-mail to provide you with information we think you may find useful. Additionally, if you take advantage of any email notification features, you will receive updates as frequently as warranted. Any email you receive from us will contain unsubscribe instructions should you wish to no longer receive e-mail from MBB Talent</p><p><br></p><p>License Disclaimer</p><p><br></p><p>Nothing on any MBB Talent document shall be construed as conferring any license under any of MBB Talent or any third party’s intellectual property rights, whether by estoppels, implication, or otherwise.</p><p><br></p><p>Content and Liability Disclaimer</p><p><br></p><p>MBB Talent shall not be responsible for any errors or omissions contained at this website, and reserves the right to make changes without notice. Accordingly, MBB Talent and third party information is provided “AS IS”. MBB Talent disclaim all warranties with regard to the information provided, including the implied warranties of merchantability and fitness for a particular purpose, and non-infringement. Some jurisdictions do not allow the exclusion of implied warranties, so the above exclusion may not apply to you.</p>",
+          "text": "<p>Terms &amp; Conditions</p><p><br></p><p>None of the material on this website may be published, broadcast, re-written or re-distributed in any form without the expressed written permission of MBB Talent or the copyright holder of the material.</p><p><br></p><p>However, any person is hereby authorised to view, copy, and print any document(s) or image(s) published by MBB Talent on its WWW server or any other published source provided that: Reference to MBB Talent is made when the document(s) or image(s) is used, as follows:</p><p><br></p><p>© 2021 MBB Talent</p><p><br></p><p>• The document is used for informational purposes only.</p><p>• The document is used for personal and non-commercial purposes only</p><p>• The document will not be copied or posted on any network computer or broadcast in any media.</p><p>• No modifications of any documents are made.</p><p><br></p><p>Use for any other purpose is expressly prohibited by law, and may result in severe civil and criminal penalties. Violators will be prosecuted to the maximum extent possible. Note that any product, process or technology described in a document on this server may be subject of other Intellectual Property Rights reserved by MBB Talent and not licensed hereunder.</p><p><br></p><p>Trademarks</p><p><br></p><p>The trademarks, service marks, trade names, logos and other indications of origin displayed in this website (“Trademarks”) are owned by MBB Talent or a third party who has granted MBB Talent a right to use them in this website. Nothing contained herein should be construed as granting the browser or user of this website the right to use any Trademark displayed in this site without the written permission of the owner of the Trademark.</p><p><br></p><p>Disclaimer</p><p><br></p><p>By using this website you agree that:</p><p><br></p><p>•\tIf you are dissatisfied with any portion of the MBB Talent Web Site, or with any of these terms and conditions of use, your sole and exclusive remedy is to discontinue using this website</p><p>•\tYou will be bound by these Rules of Use. MBB Talent reserves the right to revise the Rules of Use at any time, without notice, and you hereby agree to be bound by such changes. The permission granted herein by MBB Talent may be terminated at any time without cause or notice</p><p>•\tYou may not, without express permission from MBB Talent, take any pages from this Web Site and reformat and display them. You also may not mirror any pages on your website</p><p>•\tYour use of this website does not create a license or any other rights in MBB Talent trademarks, service marks, copyrights, or any other intellectual property or proprietary rights.</p><p><br></p><p>MBB Talent are not responsible for the content of, nor aware of all sites that are linked to this website. The fact that another website is linked to this website does not imply that:</p><p>•\tMBB Talent sponsors, licenses, endorses, is affiliated with or is otherwise connected to the site, the products or services described therein or its owner</p><p>•\tMBB Talent have authorised the linked site to use any trademark, trade name, logo or other trademarked or copyrighted material of MBB Talent.</p><p><br></p><p>In general, MBB Talent believe that persons who make information available on the World Wide Web or in newsgroups do so with the expectation that such information will be publicly and widely available. MBB Talent further believes that its making newsgroup postings and links to publicly accessible Web pages available at this site is legally permissible and consistent with the common, customary expectations of those who make use of the Web and Usenet communications media.</p><p><br></p><p>We may, from time to time, ask demographic or personal preference questions. You are never required to answer these questions. This data may be used, generically and not assigned to specific customers, for identification of overall site demographics, user preferences and tastes. MBB Talent will never wilfully disclose individually identifiable information about its clients to any third party without first receiving that users specific permission.</p><p><br></p><p>We catalogue traffic patterns throughout the site, including identifying browser and system data. We gather this data to optimise site conditions for our users. This data, with no personal information, may also be provided to advertisers and potential advertisers so they may better evaluate their advertising options.</p><p><br></p><p>We may occasionally send you e-mail to provide you with information we think you may find useful. Additionally, if you take advantage of any email notification features, you will receive updates as frequently as warranted. Any email you receive from us will contain unsubscribe instructions should you wish to no longer receive e-mail from MBB Talent</p><p><br></p><p>License Disclaimer</p><p><br></p><p>Nothing on any MBB Talent document shall be construed as conferring any license under any of MBB Talent or any third party’s intellectual property rights, whether by estoppels, implication, or otherwise.</p><p><br></p><p>Content and Liability Disclaimer</p><p><br></p><p>MBB Talent shall not be responsible for any errors or omissions contained at this website, and reserves the right to make changes without notice. Accordingly, MBB Talent and third party information is provided “AS IS”. MBB Talent disclaim all warranties with regard to the information provided, including the implied warranties of merchantability and fitness for a particular purpose, and non-infringement. Some jurisdictions do not allow the exclusion of implied warranties, so the above exclusion may not apply to you.</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -577,10 +577,476 @@
         }
       ]
     },
-    "Project-hires.html": {
+    "Executive-deployment.html": {
       "settings": {
-        "title": "MBB | Project Hires",
-        "meta_descr": "Contact MBB Talent to deploy consultants with McKinsey Bain and BCG background for projects, freelancing contracting and sub-contracting needs.",
+        "title": "MBB | Executive Deployment",
+        "meta_descr": "Deploying talent for hard-to-fulfil needs.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Executive-search.html\">Executive Deployment</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Perm-hires.html\">Secondment Support</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Project-hires.html\">Project Support</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Candidates.html#header4-1s\">Careers</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/new-mbb-blue-red-green-logo-v01-200x128.png",
+              "height": 128,
+              "alt": "MBB Talent",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MBB Talent</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-s"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.8"
+          },
+          "title": "Executive Deployment",
+          "text": "Deploying talent for hard-to-fulfil needs.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Executive-search.html#contacts3-22\" data-toolbar=\"-mbrBtnMove\">Hire with us</a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header4-t"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "25",
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "A Personal approach",
+          "text": "<p>We offer a bespoke service to achieve your goals. Have a specific need? We collaborate with you to ensure that our in-house team is either well clued up to execute or will have external expertise to support.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-u"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8013.918191701306!2d-0.10586110637419388!3d51.51533783159476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b532432c68f%3A0xc49ab742bdb640ec!2s20%20Old%20Bailey!5e0!3m2!1sen!2suk!4v1596016184169!5m2!1sen!2suk\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"></iframe>",
+              "placeId": "iframe",
+              "state": "ok"
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-w"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "© 2021 MBB Talent.&nbsp;<a href=\"terms.html#content1-1h\" class=\"text-info\">Ts &amp; Cs</a>&nbsp;| <a href=\"policy.html#content1-1k\" class=\"text-info\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1m"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
+          "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><br>\n<strong>Contacts</strong><br>Please use the contact form here. Alternatively, you can also email us:<br>workwithus [AT] mbbtalent [DOT] com",
+          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-deployment.html#header4-t\" class=\"text-info text-primary\">Executive Deployment</a></li><li><a href=\"Secondment-support.html#header4-10\" class=\"text-info text-primary\">Secondment Support</a></li><li><a href=\"Project-support.html#header4-16\" class=\"text-info text-primary\">Project Support</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Careers</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "webform@mbbtalent.com",
+            "alerts": {
+              "success": "Thank you for your message. We anticipate a response within 48h. Usually it's much quicker than that."
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message (please incl. a shared link to your CV/JD)"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-22"
+        }
+      ]
+    },
+    "Secondment-support.html": {
+      "settings": {
+        "title": "MBB | Secondment Support",
+        "meta_descr": "Need one or more secondment hires with a specific background? \nYou've come to the right place.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Executive-search.html\">Executive Deployment</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Perm-hires.html\">Secondment Support</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Project-hires.html\">Project Support</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Candidates.html#header4-1s\">Careers</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/new-mbb-blue-red-green-logo-v01-200x128.png",
+              "height": 128,
+              "alt": "MBB Talent",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MBB Talent</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-z"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1271.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.8"
+          },
+          "title": "Secondment Support",
+          "text": "Need one or more secondment hires with a specific background? <br>You've come to the right place.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Perm-hires.html#contacts3-22\" data-toolbar=\"-mbrBtnMove\">Hire with us</a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header4-10"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "25",
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x932.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "A-to-Z service",
+          "text": "<p>We offer a complete package to ensure faster support with lower turnover.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-11"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8013.918191701306!2d-0.10586110637419388!3d51.51533783159476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b532432c68f%3A0xc49ab742bdb640ec!2s20%20Old%20Bailey!5e0!3m2!1sen!2suk!4v1596016184169!5m2!1sen!2suk\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"></iframe>",
+              "placeId": "iframe",
+              "state": "ok"
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-12"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "© 2021 MBB Talent.&nbsp;<a href=\"terms.html#content1-1h\" class=\"text-info\">Ts &amp; Cs</a>&nbsp;| <a href=\"policy.html#content1-1k\" class=\"text-info\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1m"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
+          "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><br>\n<strong>Contacts</strong><br>Please use the contact form here. Alternatively, you can also email us:<br>workwithus [AT] mbbtalent [DOT] com",
+          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-deployment.html#header4-t\" class=\"text-info text-primary\">Executive Deployment</a></li><li><a href=\"Secondment-support.html#header4-10\" class=\"text-info text-primary\">Secondment Support</a></li><li><a href=\"Project-support.html#header4-16\" class=\"text-info text-primary\">Project Support</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Careers</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "webform@mbbtalent.com",
+            "alerts": {
+              "success": "Thank you for your message. We anticipate a response within 48h. Usually it's much quicker than that."
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message (please incl. a shared link to your CV/JD)"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-22"
+        }
+      ]
+    },
+    "Project-support.html": {
+      "settings": {
+        "title": "MBB | Project Support",
+        "meta_descr": "Got a project starting soon? Need to deploy a team on a temporary/locum basis? \nGet in touch, let's discuss your needs.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -598,7 +1064,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Executive-search.html\">Executive Search</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Perm-hires.html\">Permanent Hires</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Project-hires.html\">Project Hires</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Candidates.html#header4-1s\">Candidates</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Executive-search.html\">Executive Deployment</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Perm-hires.html\">Secondment Support</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Project-hires.html\">Project Support</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Candidates.html#header4-1s\">Careers</a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -650,8 +1116,8 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.8"
           },
-          "title": "Project Hires",
-          "text": "Got a project starting soon and need to deploy a new team on a temporary/locum basis? <br>Get in touch, let's discuss your needs.",
+          "title": "Project Support",
+          "text": "Got a project starting soon? Need to deploy a team on a temporary/locum basis? <br>Get in touch, let's discuss your needs.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Project-hires.html#contacts3-22\" data-toolbar=\"-mbrBtnMove\">Get in touch</a> ",
           "alias": "purity/components",
           "_tags": [
@@ -772,7 +1238,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
           "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><br>\n<strong>Contacts</strong><br>Please use the contact form here. Alternatively, you can also email us:<br>workwithus [AT] mbbtalent [DOT] com",
-          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Permanent Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project Hires</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Candidates</a></li></ul>",
+          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-deployment.html#header4-t\" class=\"text-info text-primary\">Executive Deployment</a></li><li><a href=\"Secondment-support.html#header4-10\" class=\"text-info text-primary\">Secondment Support</a></li><li><a href=\"Project-support.html#header4-16\" class=\"text-info text-primary\">Project Support</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Careers</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "webform@mbbtalent.com",
@@ -810,476 +1276,10 @@
         }
       ]
     },
-    "Perm-hires.html": {
+    "Careers.html": {
       "settings": {
-        "title": "MBB Talent | Permanent Hires",
-        "meta_descr": "Need one or more permanent hires with an MBB (McKinsey, Bain and BCG) background? \nYou've come to the right place.",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 2
-      },
-      "components": [
-        {
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "showButtons": false,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": true,
-            "color": "#fff",
-            "hamburgerColor": "#000"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Executive-search.html\">Executive Search</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Perm-hires.html\">Permanent Hires</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Project-hires.html\">Project Hires</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Candidates.html#header4-1s\">Candidates</a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-mbb-blue-red-green-logo-v01-200x128.png",
-              "height": 128,
-              "alt": "MBB Talent",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MBB Talent</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#000"
-            }
-          },
-          "_anchor": "menu-z"
-        },
-        {
-          "_inherit": "header1",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": false,
-            "contentAlign": "left",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1271.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff8e0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.8"
-          },
-          "title": "Permanent Hires",
-          "text": "Need one or more permanent hires with a specific background? <br>You've come to the right place.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Perm-hires.html#contacts3-22\" data-toolbar=\"-mbrBtnMove\">Hire with us</a> ",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header4",
-          "_styles": {
-            "H1": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "header4-10"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "25",
-            "paddingTop": "2",
-            "paddingBottom": "4",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x932.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "A-to-Z service",
-          "text": "<p>We offer a complete package to ensure faster hiring with lower turnover.</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-11"
-        },
-        {
-          "_params": {
-            "googleMap": {
-              "address": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8013.918191701306!2d-0.10586110637419388!3d51.51533783159476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b532432c68f%3A0xc49ab742bdb640ec!2s20%20Old%20Bailey!5e0!3m2!1sen!2suk!4v1596016184169!5m2!1sen!2suk\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"></iframe>",
-              "placeId": "iframe",
-              "state": "ok"
-            }
-          },
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-12"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#26272c",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "© 2021 MBB Talent.&nbsp;<a href=\"terms.html#content1-1h\" class=\"text-info\">Ts &amp; Cs</a>&nbsp;| <a href=\"policy.html#content1-1k\" class=\"text-info\">Privacy Policy</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-1m"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#37383e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
-          "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><br>\n<strong>Contacts</strong><br>Please use the contact form here. Alternatively, you can also email us:<br>workwithus [AT] mbbtalent [DOT] com",
-          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Permanent Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project Hires</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Candidates</a></li></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "webform@mbbtalent.com",
-            "alerts": {
-              "success": "Thank you for your message. We anticipate a response within 48h. Usually it's much quicker than that."
-            },
-            "fields": {
-              "name": {
-                "visible": false,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": false,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message (please incl. a shared link to your CV/JD)"
-              }
-            }
-          },
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-22"
-        }
-      ]
-    },
-    "Executive-search.html": {
-      "settings": {
-        "title": "MBB Talent | Executive Search",
-        "meta_descr": "Headhunting MBB McKinsey Bain BCG talent for hard-to-place job roles.",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 1
-      },
-      "components": [
-        {
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "showButtons": false,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": true,
-            "color": "#fff",
-            "hamburgerColor": "#000"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Executive-search.html\">Executive Search</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Perm-hires.html\">Permanent Hires</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Project-hires.html\">Project Hires</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Candidates.html#header4-1s\">Candidates</a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-mbb-blue-red-green-logo-v01-200x128.png",
-              "height": 128,
-              "alt": "MBB Talent",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MBB Talent</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#000"
-            }
-          },
-          "_anchor": "menu-s"
-        },
-        {
-          "_inherit": "header1",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": false,
-            "contentAlign": "left",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff8e0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.8"
-          },
-          "title": "Executive Search",
-          "text": "Headhunting talent for hard-to-place job roles.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Executive-search.html#contacts3-22\" data-toolbar=\"-mbrBtnMove\">Hire with us</a> ",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header4",
-          "_styles": {
-            "H1": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "header4-t"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "25",
-            "paddingTop": "2",
-            "paddingBottom": "4",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "A Personal approach",
-          "text": "<p>We offer a bespoke service to achieve your goals. Have a candidate in mind? We collaborate with you to ensure you identify the candidate with the right fit and convert your candidate into a new hire.</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-u"
-        },
-        {
-          "_params": {
-            "googleMap": {
-              "address": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8013.918191701306!2d-0.10586110637419388!3d51.51533783159476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b532432c68f%3A0xc49ab742bdb640ec!2s20%20Old%20Bailey!5e0!3m2!1sen!2suk!4v1596016184169!5m2!1sen!2suk\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"></iframe>",
-              "placeId": "iframe",
-              "state": "ok"
-            }
-          },
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-w"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#26272c",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "© 2021 MBB Talent.&nbsp;<a href=\"terms.html#content1-1h\" class=\"text-info\">Ts &amp; Cs</a>&nbsp;| <a href=\"policy.html#content1-1k\" class=\"text-info\">Privacy Policy</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-1m"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#37383e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
-          "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><br>\n<strong>Contacts</strong><br>Please use the contact form here. Alternatively, you can also email us:<br>workwithus [AT] mbbtalent [DOT] com",
-          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Permanent Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project Hires</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Candidates</a></li></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "webform@mbbtalent.com",
-            "alerts": {
-              "success": "Thank you for your message. We anticipate a response within 48h. Usually it's much quicker than that."
-            },
-            "fields": {
-              "name": {
-                "visible": false,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": false,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message (please incl. a shared link to your CV/JD)"
-              }
-            }
-          },
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-22"
-        }
-      ]
-    },
-    "Candidates.html": {
-      "settings": {
-        "title": "MBB Talent | Candidates",
-        "meta_descr": "We find MBB (McKinsey, Bain and BCG) consultants exit opportunities and get the convorsations started with future employers.\n",
+        "title": "MBB | Careers",
+        "meta_descr": "Looking for an exit opp? Don't have time to search something that fits? Leave it to us.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -1297,7 +1297,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Executive-search.html\">Executive Search</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Perm-hires.html\">Permanent Hires</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Project-hires.html\">Project Hires</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Candidates.html#header4-1s\">Candidates</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Executive-search.html\">Executive Deployment</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Perm-hires.html\">Secondment Support</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Project-hires.html\">Project Support</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Candidates.html#header4-1s\">Careers</a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -1348,9 +1348,9 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.8"
           },
-          "title": "MBB Candidates",
+          "title": "MBB Careers",
           "text": "Looking for an exit opp? Don't have time to search something that fits? Leave it to us.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Candidates.html#contacts3-22\" data-toolbar=\"-mbrBtnMove\">Leave it to us</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Candidates.html#contacts3-22\" data-toolbar=\"-mbrBtnMove\">Join us</a> ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1408,8 +1408,8 @@
               "size": 0
             }
           },
-          "title": "Exit opps that work for you",
-          "text": "Outsource your job search to us. Whether it's something permanent or freelance, we're here to connect you with the opportunity that fits with your interests and matches your preferences. In fact, we get the convo going before the hiring starts to make sure both you and your future employer are comfortable going ahead.",
+          "title": "The exit opps you're seeking",
+          "text": "Outsource your job search to us. Whether it's something permanent or freelance, we're here to connect you with the opportunity that fits with your interests and matches your preferences. In fact, we get the convo going before the hiring starts to make sure both you and your future clients are comfortable going ahead.",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1470,7 +1470,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
           "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><br>\n<strong>Contacts</strong><br>Please use the contact form here. Alternatively, you can also email us:<br>workwithus [AT] mbbtalent [DOT] com",
-          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-search.html#header4-t\" class=\"text-info\">Executive Search</a></li><li><a href=\"Perm-hires.html#header4-10\" class=\"text-info\">Permanent Hires</a></li><li><a href=\"Project-hires.html#header4-16\" class=\"text-info\">Project Hires</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Candidates</a></li></ul>",
+          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-deployment.html#header4-t\" class=\"text-info text-primary\">Executive Deployment</a></li><li><a href=\"Secondment-support.html#header4-10\" class=\"text-info text-primary\">Secondment Support</a></li><li><a href=\"Project-support.html#header4-16\" class=\"text-info text-primary\">Project Support</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Careers</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "webform@mbbtalent.com",
