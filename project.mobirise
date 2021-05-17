@@ -797,7 +797,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message (please incl. a shared link to your CV/JD)"
+                "customTitle": "Message"
               }
             }
           },
@@ -1030,7 +1030,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message (please incl. a shared link to your CV/JD)"
+                "customTitle": "Message"
               }
             }
           },
@@ -1263,7 +1263,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message (please incl. a shared link to your CV/JD)"
+                "customTitle": "Message"
               }
             }
           },
