@@ -53,7 +53,7 @@
       "components": [
         {
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "showButtons": false,
             "sticky": false,
@@ -114,7 +114,7 @@
             "overlayOpacity": "0.8"
           },
           "title": "MBB",
-          "text": "MBB — where healthcare meets business.<br>",
+          "text": "Where healthcare meets business.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#contacts3-22\" data-toolbar=\"-mbrBtnMove\">Work with us</a> ",
           "alias": "purity/components",
           "_tags": [
@@ -350,7 +350,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
           "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><br>\n<strong>Contacts</strong><br>Please use the contact form here. Alternatively, you can also email us:<br>workwithus [AT] mbbtalent [DOT] com",
-          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-deployment.html#header4-t\" class=\"text-info text-primary\">Executive Deployment</a></li><li><a href=\"Secondment-support.html#header4-10\" class=\"text-info text-primary\">Secondment Support</a></li><li><a href=\"Project-support.html#header4-16\" class=\"text-info text-primary\">Project Support</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Careers</a></li></ul>",
+          "text2": "<strong>Links</strong><ul><li><a href=\"index.html#header4-a\" class=\"text-info\">Home</a></li><li><a href=\"Executive-deployment.html#header4-t\" class=\"text-info text-primary\">Executive Deployment</a></li><li><a href=\"Secondment-support.html#header4-10\" class=\"text-info text-primary\">Secondment Support</a></li><li><a href=\"Project-support.html#header4-16\" class=\"text-info text-primary\">Project Support</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Careers</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "webform@mbbtalent.com",
@@ -421,7 +421,7 @@
       "components": [
         {
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "showButtons": false,
             "sticky": false,
@@ -505,7 +505,7 @@
       "components": [
         {
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "showButtons": false,
             "sticky": false,
@@ -589,7 +589,7 @@
       "components": [
         {
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "showButtons": false,
             "sticky": false,
@@ -772,7 +772,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
           "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><br>\n<strong>Contacts</strong><br>Please use the contact form here. Alternatively, you can also email us:<br>workwithus [AT] mbbtalent [DOT] com",
-          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-deployment.html#header4-t\" class=\"text-info text-primary\">Executive Deployment</a></li><li><a href=\"Secondment-support.html#header4-10\" class=\"text-info text-primary\">Secondment Support</a></li><li><a href=\"Project-support.html#header4-16\" class=\"text-info text-primary\">Project Support</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Careers</a></li></ul>",
+          "text2": "<strong>Links</strong><ul><li><a href=\"index.html#header4-a\" class=\"text-info\">Home</a></li><li><a href=\"Executive-deployment.html#header4-t\" class=\"text-info text-primary\">Executive Deployment</a></li><li><a href=\"Secondment-support.html#header4-10\" class=\"text-info text-primary\">Secondment Support</a></li><li><a href=\"Project-support.html#header4-16\" class=\"text-info text-primary\">Project Support</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Careers</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "webform@mbbtalent.com",
@@ -822,7 +822,7 @@
       "components": [
         {
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "showButtons": false,
             "sticky": false,
@@ -1005,7 +1005,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
           "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><br>\n<strong>Contacts</strong><br>Please use the contact form here. Alternatively, you can also email us:<br>workwithus [AT] mbbtalent [DOT] com",
-          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-deployment.html#header4-t\" class=\"text-info text-primary\">Executive Deployment</a></li><li><a href=\"Secondment-support.html#header4-10\" class=\"text-info text-primary\">Secondment Support</a></li><li><a href=\"Project-support.html#header4-16\" class=\"text-info text-primary\">Project Support</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Careers</a></li></ul>",
+          "text2": "<strong>Links</strong><ul><li><a href=\"index.html#header4-a\" class=\"text-info\">Home</a></li><li><a href=\"Executive-deployment.html#header4-t\" class=\"text-info text-primary\">Executive Deployment</a></li><li><a href=\"Secondment-support.html#header4-10\" class=\"text-info text-primary\">Secondment Support</a></li><li><a href=\"Project-support.html#header4-16\" class=\"text-info text-primary\">Project Support</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Careers</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "webform@mbbtalent.com",
@@ -1055,7 +1055,7 @@
       "components": [
         {
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "showButtons": false,
             "sticky": false,
@@ -1238,7 +1238,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
           "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><br>\n<strong>Contacts</strong><br>Please use the contact form here. Alternatively, you can also email us:<br>workwithus [AT] mbbtalent [DOT] com",
-          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-deployment.html#header4-t\" class=\"text-info text-primary\">Executive Deployment</a></li><li><a href=\"Secondment-support.html#header4-10\" class=\"text-info text-primary\">Secondment Support</a></li><li><a href=\"Project-support.html#header4-16\" class=\"text-info text-primary\">Project Support</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Careers</a></li></ul>",
+          "text2": "<strong>Links</strong><ul><li><a href=\"index.html#header4-a\" class=\"text-info\">Home</a></li><li><a href=\"Executive-deployment.html#header4-t\" class=\"text-info text-primary\">Executive Deployment</a></li><li><a href=\"Secondment-support.html#header4-10\" class=\"text-info text-primary\">Secondment Support</a></li><li><a href=\"Project-support.html#header4-16\" class=\"text-info text-primary\">Project Support</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Careers</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "webform@mbbtalent.com",
@@ -1288,7 +1288,7 @@
       "components": [
         {
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "showButtons": false,
             "sticky": false,
@@ -1349,7 +1349,7 @@
             "overlayOpacity": "0.8"
           },
           "title": "MBB Careers",
-          "text": "Looking for an exit opp? Don't have time to search something that fits? Leave it to us.",
+          "text": "Looking for an exit opp? Aspiring for a better-fit role? Get in touch.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Candidates.html#contacts3-22\" data-toolbar=\"-mbrBtnMove\">Join us</a> ",
           "alias": "purity/components",
           "_tags": [
@@ -1409,7 +1409,7 @@
             }
           },
           "title": "The exit opps you're seeking",
-          "text": "Outsource your job search to us. Whether it's something permanent or freelance, we're here to connect you with the opportunity that fits with your interests and matches your preferences. In fact, we get the convo going before the hiring starts to make sure both you and your future clients are comfortable going ahead.",
+          "text": "Whether it's something permanent or freelance, we want to make sure the opportunity fits with your interests and matches your skills and preferences. In fact, we get the convo going before the hiring starts to make sure both you and future clients are comfortable going ahead.",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1470,7 +1470,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
           "text1": "<strong>Address</strong><br>20 Bishop's Ct, Farringdon, <br>London EC4M 7LN<br><br>\n<strong>Contacts</strong><br>Please use the contact form here. Alternatively, you can also email us:<br>workwithus [AT] mbbtalent [DOT] com",
-          "text2": "<strong>Links</strong><ul><li><a href=\"Executive-deployment.html#header4-t\" class=\"text-info text-primary\">Executive Deployment</a></li><li><a href=\"Secondment-support.html#header4-10\" class=\"text-info text-primary\">Secondment Support</a></li><li><a href=\"Project-support.html#header4-16\" class=\"text-info text-primary\">Project Support</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Careers</a></li></ul>",
+          "text2": "<strong>Links</strong><ul><li><a href=\"index.html#header4-a\" class=\"text-info\">Home</a></li><li><a href=\"Executive-deployment.html#header4-t\" class=\"text-info text-primary\">Executive Deployment</a></li><li><a href=\"Secondment-support.html#header4-10\" class=\"text-info text-primary\">Secondment Support</a></li><li><a href=\"Project-support.html#header4-16\" class=\"text-info text-primary\">Project Support</a></li><li><a href=\"Candidates.html#header4-1s\" class=\"text-info\">Careers</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "webform@mbbtalent.com",
